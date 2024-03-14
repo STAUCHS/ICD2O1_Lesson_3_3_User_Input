@@ -7,6 +7,11 @@
 #-------------------------------------------------------------------------
 
 # QUESTION #1:
+# Write a line of code that will ask the user for the length and width of a rectangle.
+# Make sure to store it in a variable and follow the Python Style Guide.
+
+
+# QUESTION #2:
 # Write a program takes the user's first name, last name, and age.
 # The program will then output their information
 
@@ -22,9 +27,9 @@ Last Name: Doe
 Age: 23
 '''
 
-# QUESTION #2:
+# QUESTION #3:
 # Write a program that asks the user for each data type (int, float, string).
-# Make sure to use variables and follow the Python Style Guide
+# Make sure to store it in a variable and follow the Python Style Guide
 
 
 # Part (a) Convert each type to an int then output the type of each one
@@ -34,3 +39,24 @@ Age: 23
 
 
 # Part (c) Convert each type to a string then output the type of each one
+
+
+# QUESTION #4:
+'''
+Consider the code below:
+# Initialize variables
+km_travelled = 300
+litres_used = 40
+
+# Calculate the km_per_litres
+fuel = km_travelled/litres_used
+
+# Output result
+print ("The kilometres per litre for the vehicle is", fuel ,"km/L")
+'''
+
+# Part (a) Modify the code to get km_travlled and litres_used values from the user
+
+
+# Part (b) Modify the code from part (a) so that it asks the user for the make of the car
+# and incorporate this into the final print statement
