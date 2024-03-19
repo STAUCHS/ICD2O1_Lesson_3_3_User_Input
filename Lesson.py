@@ -2,7 +2,6 @@
 # Name:		    Lesson 3.3 User Input & Casting
 # Purpose:		Lesson Examples
 # Author:		Chen. C
-#
 # Created:		13/03/2024
 #-------------------------------------------------------------------------
 

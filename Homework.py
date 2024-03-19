@@ -2,7 +2,6 @@
 # Name:		    Lesson 3.3 User Input & Casting
 # Purpose:		Homework Questions
 # Author:		Last Name. First Initial
-#
 # Created:		dd/mm/yyyy
 #-------------------------------------------------------------------------
 
