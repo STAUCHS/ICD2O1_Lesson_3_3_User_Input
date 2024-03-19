@@ -2,6 +2,7 @@
 
 ## Success Criteria
 - [x] I can use the input() function to get user input
+- [x] I can change different data types into an int, float, and str
 
 ## Terminology
 >`Programmer`: The person writing the code<br>
