@@ -28,22 +28,19 @@ Age: 23
 '''
 
 # QUESTION #3:
-# Write a program that asks the user for each data type (int, float, string).
+# Part (a) Write a program that asks the user to enter an int, float, and string
 # Make sure to store it in a variable and follow the Python Style Guide
 
 
-# Part (a) Convert each type to an int then output the type of each one
+# Part (b) Convert the user inputted int into an actual integer
 
 
-# Part (b) Convert each type to a float then output the type of each one
-
-
-# Part (c) Convert each type to a string then output the type of each one
+# Part (c) Conver the user inputted float into an actual float
 
 
 # QUESTION #4:
+# Consider the code below:
 '''
-Consider the code below:
 # Initialize variables
 km_travelled = 300
 litres_used = 40
